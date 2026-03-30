@@ -65,6 +65,9 @@ alarm_clock.py   — entire application, single file
 alarms.json      — created automatically on first save
 README.md        — this file
 ```
+## User Interface
+<img width="749" height="1124" alt="image" src="https://github.com/user-attachments/assets/bb670345-556f-4da0-acc8-d2ae582d5f11" />
+
 
 KNOWN LIMITATIONS
  
