@@ -23,7 +23,7 @@ tkinter (ships with Python on Windows and macOS; on Linux: sudo apt install pyth
 
 Nothing else — no pip, no virtualenv
 
-## run it 
+## ▶️ How to Run
  
 ```bash
 python alarm_clock.py
