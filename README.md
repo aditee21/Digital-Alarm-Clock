@@ -77,10 +77,13 @@ README.md        — this file
 
 
 ## 💡 Future Improvements
-Snooze feature
-Custom alarm tones
-AI-based adaptive alarm suggestions
-Responsive window resizing
+ Snooze feature
+ 
+ Custom alarm tones
+ 
+ AI-based adaptive alarm suggestions
+ 
+ Responsive window resizing
  ## 📌 Conclusion
 
 This project combines GUI development + AI-inspired logic to create a practical and user-friendly application. It showcases how even simple rule-based systems can simulate intelligent behavior in everyday tools.
