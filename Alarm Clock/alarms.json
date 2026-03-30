@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1774878767418,
+    "time": "19:22",
+    "label": "",
+    "repeat": "daily",
+    "sound": false,
+    "active": true
+  },
+  {
+    "id": 1774878770097,
+    "time": "19:22",
+    "label": "",
+    "repeat": "daily",
+    "sound": false,
+    "active": true
+  },
+  {
+    "id": 1774878867362,
+    "time": "06:00",
+    "label": "chemistry class",
+    "repeat": "daily",
+    "sound": true,
+    "active": true
+  }
+]
