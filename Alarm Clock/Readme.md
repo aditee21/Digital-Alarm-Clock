@@ -23,7 +23,7 @@ tkinter (ships with Python on Windows and macOS; on Linux: sudo apt install pyth
 
 Nothing else — no pip, no virtualenv
 
-## run it 
+## ▶️ How to Run
  
 ```bash
 python alarm_clock.py
@@ -69,9 +69,22 @@ README.md        — this file
 <img width="749" height="1124" alt="image" src="https://github.com/user-attachments/assets/bb670345-556f-4da0-acc8-d2ae582d5f11" />
 
 
-KNOWN LIMITATIONS
+## KNOWN LIMITATIONS
  
  Window size is fixed at 500 × 820 px and cannot be resized
- On Linux, audio requires at least one of `aplay`, `paplay`, or `ffplay` — most desktop distros include `aplay` via `alsa-utils` by default
- There is no snooze; the only option when an alarm rings is to dismiss it
+ On Linux, audio requires at least one of `aplay`, `paplay`, or `ffplay` — most desktop distros include `aplay` via `alsa-utils`   by default
+ There is no snooze; the only option when an alarm rings is to dismiss 
+
+
+## 💡 Future Improvements
+ Snooze feature
+ 
+ Custom alarm tones
+ 
+ AI-based adaptive alarm suggestions
+ 
+ Responsive window resizing
+ ## 📌 Conclusion
+
+This project combines GUI development + AI-inspired logic to create a practical and user-friendly application. It showcases how even simple rule-based systems can simulate intelligent behavior in everyday tools.
  
